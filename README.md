@@ -19,3 +19,8 @@ Steps:
 
 Links:
 * Yii 1.1 docs - http://www.yiiframework.com/doc/guide/1.1/ru/quickstart.installation
+* Workflow -http://www.yiiframework.com/doc/guide/1.1/ru/basics.workflow
+* Qiwi How to - http://habrahabr.ru/post/198668/
+* Qiwi on GitHub - https://github.com/atnartur/php-qiwi
+* PantomJS + Promises - http://shout.setfive.com/2014/02/27/javascript-using-phantomjs-node-with-deferreds/
+* PhantomJS + PHP - http://blog.luchnikov.ru/programming/phantomjs/
