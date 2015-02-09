@@ -24,3 +24,8 @@ Links:
 * Qiwi on GitHub - https://github.com/atnartur/php-qiwi
 * PantomJS + Promises - http://shout.setfive.com/2014/02/27/javascript-using-phantomjs-node-with-deferreds/
 * PhantomJS + PHP - http://blog.luchnikov.ru/programming/phantomjs/
+* CasperJS(PhantomJS) Quick start - http://docs.casperjs.org/en/latest/quickstart.html
+* CasperJS API - http://docs.casperjs.org/en/latest/modules/index.html
+* Curl authentication - http://www.cyberforum.ru/php-network/thread923189.html
+* CasperJS AJAX form - http://docs.casperjs.org/en/latest/modules/casper.html#waitFor
+* Generate CasperJS - https://chrome.google.com/webstore/detail/resurrectio/kicncbplfjgjlliddogifpohdhkbjogm
